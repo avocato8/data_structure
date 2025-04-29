@@ -23,9 +23,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3E436E872DC1336500075644 /* data_structure */ = {
+		3EEA4A3F2DC7D6BD0060EFA0 /* list */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = data_structure;
+			path = list;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,8 +44,8 @@
 		3E436E7C2DC1336500075644 = {
 			isa = PBXGroup;
 			children = (
-				3E436E872DC1336500075644 /* data_structure */,
 				3E436E862DC1336500075644 /* Products */,
+				3EEA4A3F2DC7D6BD0060EFA0 /* list */,
 			);
 			sourceTree = "<group>";
 		};
@@ -73,7 +73,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3E436E872DC1336500075644 /* data_structure */,
+				3EEA4A3F2DC7D6BD0060EFA0 /* list */,
 			);
 			name = data_structure;
 			packageProductDependencies = (
